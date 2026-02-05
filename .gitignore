@@ -1,0 +1,30 @@
+# Arquivo de ambiente com credenciais
+.env
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Arquivos gerados
+*.xlsx
+*.xls
+last_extraction.json
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
