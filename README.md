@@ -2,6 +2,8 @@
 
 Este projeto Python extrai dados de um banco PostgreSQL e gera uma planilha XLSX formatada.
 
+![alt text](/assets/image.png)
+
 ## 📋 Requisitos
 
 - Python 3.8 ou superior
